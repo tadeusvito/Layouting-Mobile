@@ -1,7 +1,7 @@
 # Tugas 1 Prak TPM - Layouting
-**Tadeus Vito Gavra Sitanggang
-123220105
-IF-G**
+**Tadeus Vito Gavra Sitanggang (123220105)**
+
+**IF-G**
 ## Fitur Utama
 
 1. **Widget View dengan Konten**:
